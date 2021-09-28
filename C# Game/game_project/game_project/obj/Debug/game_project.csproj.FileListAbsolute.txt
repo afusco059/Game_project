@@ -1,0 +1,2 @@
+C:\Users\fusco_anthony\Desktop\C# and py\C# Game\game_project\game_project\obj\Debug\game_project.csproj.AssemblyReference.cache
+C:\Users\fusco_anthony\Desktop\C# and py\C# Game\game_project\game_project\obj\Debug\game_project.csproj.CoreCompileInputs.cache
